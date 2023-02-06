@@ -1,4 +1,4 @@
-# ml_image_detection
+# random image generator
 
 A new Flutter project.
 
